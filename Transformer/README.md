@@ -1,5 +1,5 @@
 # ViT README
-CNN and Transformer architectures using Pytorch for CIFAR-10 Dataset
+Visual Transformer architectures using Pytorch for CIFAR-10 Dataset
 
 ## Environment
 Python 3.10.15
