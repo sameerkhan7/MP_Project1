@@ -12,5 +12,6 @@ Visual Transformer and CNN architectures with adversarial attack examples using 
 
 ### Adversarial Attacks Folder
 **PGD.ipynb**: Notebook that contains adversarial attack code on the ViT architecture using FGSM and PGD attack. The results in the report are taken from this notebook. 
+
 **PGD_seeded.ipynb**: Notebook that contains the same code. However, the other version is not seeded so the results are not reproducible. This version is seeded for reproducible results. The performance between each seeds are very similar. 
 
