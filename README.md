@@ -15,3 +15,7 @@ Visual Transformer and CNN architectures with adversarial attack examples using 
 
 **PGD_seeded.ipynb**: Notebook that contains the same code. However, the other version is not seeded so the results are not reproducible. This version is seeded for reproducible results. The performance between each seeds are very similar. 
 
+### CNN Folder
+
+**Machine_Perception_Project_1.ipynb:**
+
