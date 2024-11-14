@@ -2,6 +2,8 @@
 Visual Transformer and CNN architectures with adversarial attack examples using Pytorch for CIFAR-10 Dataset
 
 ## Contents
+### CNN notebook 
+The CNN noteboook **Machine_Perception_Project_1.ipynb**, includes all code required to train and evaluate a convolutional neural network on the CIFAR-10 dataset. It contains the complete model architecture, training loop, and testing procedures, along with visualizations of performance metrics.
 
 ### Transformer Folder
 
